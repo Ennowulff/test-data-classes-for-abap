@@ -1,6 +1,11 @@
 # test-data-classes-for-abap
 Source code of e-bite ["Test Data Classes for ABAP"](https://www.rheinwerk-verlag.de/test-data-classes-for-abap/)
 
+# Status
+
+in progress
+Code is incomplete
+
 # Requirements
 
 SAP_BASIS 7.51 because of ABAP Test Double Frameworks (ATDF) 
