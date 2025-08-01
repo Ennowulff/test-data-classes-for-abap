@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZTDC4ABAP_DELIVERY_PRIO</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZTDC4ABAP_DELIVERY_PRIO</DOMNAME>
+    <HEADLEN>17</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>13</SCRLEN2>
+    <SCRLEN3>17</SCRLEN3>
+    <DDTEXT>Test Data Class for ABAP: Delivery Prio</DDTEXT>
+    <REPTEXT>Delivery Priority</REPTEXT>
+    <SCRTEXT_S>Del.Prio</SCRTEXT_S>
+    <SCRTEXT_M>Delivery Prio</SCRTEXT_M>
+    <SCRTEXT_L>Delivery Priority</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
